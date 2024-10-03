@@ -46,7 +46,7 @@
 
 5. Open `http://localhost:3000` in your browser to see the app.
 
-🔗 **View Demo**: [Movie Explorer Demo](your_demo_link_here)
+🔗 **View Demo**: [Movie Explorer Demo](https://movie-exp-iota.vercel.app/)
 
 🔗 **API Documentation**:
 This project uses the TheMovieDB API. You can find more details in the official API documentation: https://www.themoviedb.org/documentation/api
